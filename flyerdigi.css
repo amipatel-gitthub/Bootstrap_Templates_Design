@@ -1,0 +1,39 @@
+body {
+  margin: 0px;
+}
+.bg_color{
+  background: linear-gradient(#000000, #343f52,
+   #60697b);
+}
+
+.fx_poc {
+  position: absolute;
+  content: "";
+  top: 59%;
+  left: 33%;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.und {
+  text-decoration: underline;
+  text-decoration-color: red;
+}
+
+.hline { width:100%; height:1px; background: #fff }
+
+.zx-poc {
+  position: absolute;
+    content: "";
+    top: 379%;
+    left: 13%;
+}
+.vl {
+  border-left: 2px solid white;
+  height: 80px;
+}
